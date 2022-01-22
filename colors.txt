@@ -4,3 +4,8 @@ white
 black
 silver
 golden
+
+special colors:
+turquoise
+velvet
+brick-red
