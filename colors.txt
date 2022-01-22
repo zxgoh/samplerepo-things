@@ -1,3 +1,6 @@
 blue
 red
 white
+black
+silver
+golden
